@@ -2,3 +2,4 @@ hello
 new line entered
 3rd line
 featruee
+to check that jenkins is working fine 
