@@ -8,7 +8,7 @@ pipeline
       stage('Build'){
         steps{
           git 'https://github.com/monya-ops/practice3'
-          echo 'Build Successful"
+          echo 'Build Successful'
         }
       }
     }
